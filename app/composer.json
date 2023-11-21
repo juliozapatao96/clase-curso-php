@@ -1,0 +1,15 @@
+{
+    "name": "jz/mi-app",
+    "description": "probando composer",
+    "autoload": {
+        "psr-4": {
+            "Jz\\MiApp\\": "var/www/html/app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julio Zapata"
+        }
+    ],
+    "require": {}
+}
